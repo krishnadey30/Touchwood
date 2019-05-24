@@ -1,0 +1,340 @@
+body
+{
+   margin:0;
+   background-image:url(Logo.png);
+
+   background-repeat:no-repeat;
+   background-size:90%;
+}
+header
+{
+    background:black;
+    color:white; 
+    padding:8px 0px 6px 40px;  
+    height:45px;
+ }
+header h1
+{
+     display:inline;
+     font-size:32px;
+     float:left;
+     margin-top:10px;
+     margin-right:10px;
+  
+}
+nav ul
+{
+      display:inline;
+      padding:0px;
+      float:left;
+}
+ nav ul li
+{
+       display:inline-block;
+       list-style-type:none;
+       color:white; 
+       float:left;
+       margin-left:12px;
+      padding:2px 20px 0px 0px;
+}
+
+nav ul li a
+{
+ color:white;   
+ text-decoration:none;
+}
+.homered
+{
+  background-color:red;
+  padding:30px 10px 20px 10px;
+}
+.divider
+{
+      background-color:red;
+      height:5px;
+}
+
+.homeblack:hover
+{
+background-color:blue;
+padding:30px 10px 16px 10px;
+}
+
+.sub_divider{
+    float: right;
+    
+}
+.foot{
+    margin-top: 200px;
+    height: 1600px;
+    width: inherit;
+    background-color: black;
+}
+.shape{
+    width: 800px;
+}
+
+.head{
+    color: white;
+    font-size: 60px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.content{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.tblogo
+{
+    margin-left: 50px;
+    
+}
+.main_content{
+    font-size: 50px;
+}
+
+.head1{
+    color: white;
+    font-size: 60px;
+   
+}
+.sub_head{
+     width:30%;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 300px;
+    background-color: white;
+}
+.font
+{
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 45%;
+    margin-top: 5px;
+    color: red;
+}
+.font1
+{
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 35%;
+    margin-top: 5px;
+    color: red;
+}
+.font2
+{
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-top: 5px;
+    color: red;
+}
+.font3
+{
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 40%;
+    margin-top: 5px;
+    color: red;
+}
+
+.reg
+{
+    width: 60%;
+     background-color: red;
+    height: 50px;
+    margin-top: 20px;
+   margin-left: 20%;
+    
+}
+
+/*----colleges----*/
+
+
+   
+
+.bba{
+
+    width: 5%;
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    float:right;
+    margin-right: 20px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+    
+}
+.bba:hover{
+    
+     -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+}
+.bds{
+
+    width: 5%;
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    float: left;
+    margin-left: 50px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+    
+}
+.bds:hover{
+     -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+}
+.commerce{
+    text-align: center;
+    width: 10%;
+    background-color: green;
+    padding: 50px;
+    margin-top: 250px;
+    float: left;
+    margin-left: 50px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+    
+}
+.commerce:hover{
+    -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+    
+}
+.economics{
+    
+    width: 10%;
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    float: left;
+    margin-left: 30px;
+     -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+    
+}
+.economics:hover{
+      -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+    
+}
+.mbbs{
+    margin-left: 20px;
+    background-color: green;
+    text-align: center;
+    width: 5%;
+    padding: 50px;
+    float: left;
+     -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+    
+}
+.mbbs:hover{
+    -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+}
+
+
+.engineering{
+     margin-left: 50px;
+    background-color: green;
+    text-align: center;
+    margin-top: 250px;
+    width: 10%;
+    padding: 50px;
+    float: left;
+     -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+}
+
+.engineering:hover{
+    -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(360deg);
+}
+
+/*-----under colleges----------*/
+
+.foote{
+    margin-top: 50px;
+}
+
+/*--------cologes---------*/
+.register
+{
+    color:white;
+    margin-left: 30%;
+     font-family: cursive;
+    font-size: 30px;
+}
+blink {
+  -webkit-animation: 2s linear infinite condemned_blink_effect; // for Android
+  animation: 2s linear infinite condemned_blink_effect;
+}
+@-webkit-keyframes condemned_blink_effect { // for Android
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+@keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+.footer{
+    
+    width: 100%;
+    height: 30px;
+    background-color:black;
+    color: white;
+    
+ }
+.edit{
+    margin-top: 30px;
+}
+/*Contact type css */
+
+.formhead{
+    font-size: 50px;
+}
+.contactform{
+    
+    margin-left: 500px;
+    border: 1px;
+}
+.submit{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+}
+.divider1
+{
+     
+      background-color:red;
+      height:80px;
+    
+}
+.contact{
+    margin: 300px;
+    font-size: 30px;
+}
+
+
+

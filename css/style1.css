@@ -1,0 +1,73 @@
+#popUpMain{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    z-index: 1001;
+    font-family: 'Slabo 27px', serif;
+}
+
+#popup{
+    width: 500px;
+    height: 450px;
+    background-image: url(html-color.jpg);
+    background-size: cover;
+    margin-left: 500px;
+    margin-top: 200px;
+    top: 50%;
+    box-shadow: 2px 2px 5px 3px black;
+    
+}
+
+#newsHeading{
+    
+    transform: translateY(10px);
+    color: white;
+    margin-left: 180px;
+    font-family: 'Slabo 27px', serif;
+}
+
+#emailId{
+    width: 60%;
+    margin-left: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+#name{
+    width: 60%;
+    margin-left: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+#mobile{
+    width: 60%;
+    margin-left: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+
+
+#comment{
+     width: 60%;
+    margin-left: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+
+.submitId{
+    background-color: #0fc0fa;
+    border: none;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
+    color: white;
+    margin-left: 90px;
+    font-family: 'Slabo 27px', serif;
+}

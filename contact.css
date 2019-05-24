@@ -1,0 +1,55 @@
+body
+{
+   margin:0;
+   background-repeat:no-repeat;
+   background-size:100%;
+    height:850px;
+}
+header
+{
+    background:black;
+    color:white; 
+    padding:8px 0px 6px 40px;  
+    height:45px;
+ }
+
+
+.homered
+{
+  background-color:red;
+  padding:30px 10px 20px 10px;
+}
+.homeblack:hover
+{
+background-color:blue;
+padding:30px 10px 16px 10px;
+}
+
+
+.formhead{
+    font-size: 50px;
+}
+.contactform{
+    
+    margin-left: 500px;
+    border: 1px;
+}
+.submit{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+}
+.divider1
+{
+    margin-top: 370px;
+      background-color:red;
+      height:80px;
+}
+.contact{
+    
+    margin-top: 20px;
+    margin: 300px;
+    font-size: 30px;
+}
